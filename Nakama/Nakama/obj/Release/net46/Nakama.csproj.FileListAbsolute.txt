@@ -1,0 +1,15 @@
+F:\JianouSpace\Test\C#\nakama-dotnet-master\Nakama\bin\Release\net46\Nakama.dll
+F:\JianouSpace\Test\C#\nakama-dotnet-master\Nakama\bin\Release\net46\Nakama.pdb
+F:\JianouSpace\Test\C#\nakama-dotnet-master\Nakama\bin\Release\net46\System.Net.Http.dll
+F:\JianouSpace\Test\C#\nakama-dotnet-master\Nakama\bin\Release\net46\System.Security.Cryptography.Algorithms.dll
+F:\JianouSpace\Test\C#\nakama-dotnet-master\Nakama\bin\Release\net46\System.Security.Cryptography.Encoding.dll
+F:\JianouSpace\Test\C#\nakama-dotnet-master\Nakama\bin\Release\net46\System.Security.Cryptography.Primitives.dll
+F:\JianouSpace\Test\C#\nakama-dotnet-master\Nakama\bin\Release\net46\System.Security.Cryptography.X509Certificates.dll
+F:\JianouSpace\Test\C#\nakama-dotnet-master\Nakama\obj\Release\net46\Nakama.csproj.AssemblyReference.cache
+F:\JianouSpace\Test\C#\nakama-dotnet-master\Nakama\obj\Release\net46\Nakama.GeneratedMSBuildEditorConfig.editorconfig
+F:\JianouSpace\Test\C#\nakama-dotnet-master\Nakama\obj\Release\net46\Nakama.AssemblyInfoInputs.cache
+F:\JianouSpace\Test\C#\nakama-dotnet-master\Nakama\obj\Release\net46\Nakama.AssemblyInfo.cs
+F:\JianouSpace\Test\C#\nakama-dotnet-master\Nakama\obj\Release\net46\Nakama.csproj.CoreCompileInputs.cache
+F:\JianouSpace\Test\C#\nakama-dotnet-master\Nakama\obj\Release\net46\Nakama.csproj.CopyComplete
+F:\JianouSpace\Test\C#\nakama-dotnet-master\Nakama\obj\Release\net46\Nakama.dll
+F:\JianouSpace\Test\C#\nakama-dotnet-master\Nakama\obj\Release\net46\Nakama.pdb

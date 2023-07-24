@@ -1,0 +1,12 @@
+F:\JianouSpace\Test\C#\NakamaTest\Nakama\bin\Debug\net70\Nakama.deps.json
+F:\JianouSpace\Test\C#\NakamaTest\Nakama\bin\Debug\net70\Nakama.dll
+F:\JianouSpace\Test\C#\NakamaTest\Nakama\bin\Debug\net70\Nakama.pdb
+F:\JianouSpace\Test\C#\NakamaTest\Nakama\obj\Debug\net70\Nakama.csproj.AssemblyReference.cache
+F:\JianouSpace\Test\C#\NakamaTest\Nakama\obj\Debug\net70\Nakama.GeneratedMSBuildEditorConfig.editorconfig
+F:\JianouSpace\Test\C#\NakamaTest\Nakama\obj\Debug\net70\Nakama.AssemblyInfoInputs.cache
+F:\JianouSpace\Test\C#\NakamaTest\Nakama\obj\Debug\net70\Nakama.AssemblyInfo.cs
+F:\JianouSpace\Test\C#\NakamaTest\Nakama\obj\Debug\net70\Nakama.csproj.CoreCompileInputs.cache
+F:\JianouSpace\Test\C#\NakamaTest\Nakama\obj\Debug\net70\Nakama.dll
+F:\JianouSpace\Test\C#\NakamaTest\Nakama\obj\Debug\net70\refint\Nakama.dll
+F:\JianouSpace\Test\C#\NakamaTest\Nakama\obj\Debug\net70\Nakama.pdb
+F:\JianouSpace\Test\C#\NakamaTest\Nakama\obj\Debug\net70\ref\Nakama.dll

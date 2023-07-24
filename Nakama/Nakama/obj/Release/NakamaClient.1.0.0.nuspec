@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NakamaClient</id>
+    <version>1.0.0</version>
+    <authors>Nakama Authors &amp; contributors</authors>
+    <license type="expression">Apache-2.0</license>
+    <licenseUrl>https://licenses.nuget.org/Apache-2.0</licenseUrl>
+    <description>Nakama is an open-source server designed to power modern games and apps.
+      
+      Features include user accounts, chat, social, matchmaker, realtime multiplayer, and much more. The official client which implements the full API and socket options for Nakama server. It's written in C# with minimal dependencies to support Unity, Xamarin, Godot, XNA, and other engines and frameworks.</description>
+    <tags>clientsdk nakama gameserver backend restapi</tags>
+    <repository url="https://github.com/heroiclabs/nakama-dotnet" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.6">
+        <dependency id="System.Net.Http" version="4.3.4" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="System.Net.Http" version="4.3.4" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="F:\JianouSpace\Test\C#\nakama-dotnet-master\Nakama\bin\Release\net46\Nakama.dll" target="lib\net46\Nakama.dll" />
+    <file src="F:\JianouSpace\Test\C#\nakama-dotnet-master\Nakama\bin\Release\netstandard2.0\Nakama.dll" target="lib\netstandard2.0\Nakama.dll" />
+  </files>
+</package>

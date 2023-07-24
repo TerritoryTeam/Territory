@@ -1,0 +1,6 @@
+F:\JianouSpace\Test\C#\NakamaTest\Cline\obj\Debug\net4.6\Cline.csproj.AssemblyReference.cache
+F:\JianouSpace\Test\C#\NakamaTest\Cline\obj\Debug\net4.6\Cline.csproj.SuggestedBindingRedirects.cache
+F:\JianouSpace\Test\C#\NakamaTest\Cline\obj\Debug\net4.6\Cline.GeneratedMSBuildEditorConfig.editorconfig
+F:\JianouSpace\Test\C#\NakamaTest\Cline\obj\Debug\net4.6\Cline.AssemblyInfoInputs.cache
+F:\JianouSpace\Test\C#\NakamaTest\Cline\obj\Debug\net4.6\Cline.AssemblyInfo.cs
+F:\JianouSpace\Test\C#\NakamaTest\Cline\obj\Debug\net4.6\Cline.csproj.CoreCompileInputs.cache
